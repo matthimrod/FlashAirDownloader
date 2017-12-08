@@ -69,6 +69,8 @@ sub HELP_MESSAGE {
 
     FlashAirDownloader.pl 
     
+    Syncs the remote card to the local directory.
+    
     ARGUMENTS:
        -c  Card Address
        -d  Download Directory (defaults to current directory)
